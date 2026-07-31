@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="1.Grade using Else If Ladder (Console)/1.Grade using Else If Ladder (Console).csproj" Id="71a38018-5ea2-4aed-acca-3d815be5a68e" />
+  <Project Path="10.Divide by Zero Exception Handling/10.Divide by Zero Exception Handling.csproj" Id="bda85adb-6f8a-4f53-8fa6-ad295ba7c60f" />
+  <Project Path="11.Delegate (Maximum &amp; Minimum)/11.Delegate (Maximum &amp; Minimum).csproj" Id="e5654229-3155-4530-850a-ac463943804a" />
+  <Project Path="12.Windows Forms Calculator/12.Windows Forms Calculator.csproj" Id="c9e129a9-cfb5-4440-b7d6-aeff6ffb43ed" />
+  <Project Path="2.Menu Driven Calculator using Switch (Console)/2.Menu Driven Calculator using Switch (Console).csproj" Id="7878703b-569d-4ee6-b040-1364fcf2ba6a" />
+  <Project Path="3.Maximum &amp; Minimum of 10 Numbers (Console)/3.Maximum &amp; Minimum of 10 Numbers (Console).csproj" Id="2dfc76e1-894f-4d90-b8d4-c9e836484daa" />
+  <Project Path="4.Sort Array in Ascending Order (Console)/4.Sort Array in Ascending Order (Console).csproj" Id="700cd87a-a165-43f6-835c-11eb55dea3bf" />
+  <Project Path="5.Count Vowels in String (Console)/5.Count Vowels in String (Console).csproj" Id="6d3816da-e6a2-427a-b412-59a72cb65143" />
+  <Project Path="6.Constructor Overloading (Rectangle Class)/6.Constructor Overloading (Rectangle Class).csproj" Id="6c9171c0-bd86-4ffb-8a99-b287ffe1cde6" />
+  <Project Path="7.Method Overloading (Area Calculation)/7.Method Overloading (Area Calculation).csproj" Id="b73af575-e7aa-4d20-91b9-03013ce71ba0" />
+  <Project Path="8.Inheritance (Vehicle → Car &amp; Bike)/8.Inheritance (Vehicle → Car &amp; Bike).csproj" Id="485b1468-6927-4c5e-a3fa-88d7626eb677" />
+  <Project Path="9.Method Overriding (virtual &amp; override)/9.Method Overriding (virtual &amp; override).csproj" Id="8e1e466d-4e1c-44e3-a5f8-3f0fc6a2ed5a" />
+  <Project Path="crud/13,14. CRUD Operation using Windows Forms + SQL Server.csproj" Id="d543d8d4-76bd-4edb-9113-8aaf21c8ceff" />
+</Solution>
